@@ -1,11 +1,11 @@
-<h1 align="center">Hey viewer 👋, I'm Nishant Singh</h1>
-<h3 align="center">Software Engineer | DevOps Enthusiast</h3>
+<h1 align="center"> Welcome to my Github! This is NISHANT SINGH</h1>
+<h3 align="center">DEVOPS ENGINEER | AWS CLOUD</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niishaant&label=Profile%20views&color=0e75b6&style=flat" alt="niishaant" /> </p>
 
-- 🔭 I’m currently practising **Data Structures & Algorithms**
+- 🔭 I’m currently undergoing Training of **AWS and DevOps**
 
-- 🤝 I’m looking for **Job Opportunities as Fresher**
+- 🤝 I’m looking to **showcase my Talent at your Organisation as Fresher**
 
 - 📫 How to reach me **nishant2912singh@gmail.com**
 
