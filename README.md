@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome to my Github! This is NISHANT SINGH</h1>
-<h3 align="center">FULL STACK DEVELOPER</h3>
+<h3 align="center">AWS DEVOPS ENGINEER</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niishaant&label=Profile%20views&color=0e75b6&style=flat" alt="niishaant" /> </p>
 
